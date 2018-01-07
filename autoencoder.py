@@ -2,6 +2,7 @@
 #insert new 2
 #cuc edit
 #cuc 2nd edit
+#remove conflict
 import tensorflow as tf
 import numpy as np
 import math
